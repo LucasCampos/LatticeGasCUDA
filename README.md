@@ -1,7 +1,7 @@
 LatticeGasCUDA
 ==============
 
-Resultado do projeto de Métodos Computacionais Para a Física. Versão usando CUDA C. A versão paralela pode ser encontrada em https://github.com/LucasCampos/LatticeGa
+Resultado do projeto de Métodos Computacionais Para a Física. Versão usando CUDA C. A versão serial pode ser encontrada em https://github.com/LucasCampos/LatticeGas
 
 ==================REQUISITOS==================
 
