@@ -1,7 +1,7 @@
 LatticeGasCUDA
 ==============
 
-Resultado do projeto de Métodos Computacionais Para a Física. Versão usando CUDA C
+Resultado do projeto de Métodos Computacionais Para a Física. Versão usando CUDA C. A versão paralela pode ser encontrada em https://github.com/LucasCampos/LatticeGa
 
 ==================REQUISITOS==================
 
@@ -25,4 +25,13 @@ Se o seu computador não utilizar o chip Optimus, é necessário alterar a linha
 
 	./$(EXECS)
 
-==============================================
+==================MÉTRICA=====================
+
+Velocidade de iteração, em um processador i7-3612QM e GTX630M, sem visualização
+
+|L   | ms/ite |
+|----|--------|
+|192 | 0.05864 |
+|384 | 0.22248 |
+|576 | 0.48028 |
+|768 | 0.84067 |
